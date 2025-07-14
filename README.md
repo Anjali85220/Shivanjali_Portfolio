@@ -8,10 +8,8 @@ Welcome to my personal developer portfolio website built with **React** and **Ta
 
 ## 🚀 Live Preview
 
-> 📌 [View Portfolio Online](#)  
-_(Update this link after deployment to GitHub Pages, Vercel, or Netlify)_
+> 🌐 [View My Portfolio Online](https://shivanjali-portfolio.vercel.app/)
 
----
 
 ## 🧰 Tech Stack
 
