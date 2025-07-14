@@ -2,7 +2,7 @@
 
 Welcome to my personal developer portfolio website built with **React** and **Tailwind CSS**. This project showcases my skills, projects, certifications, internships, and more — designed with a sleek, responsive, and stylish UI!
 
-![Portfolio Screenshot](./public/profile.jpg)
+
 
 ---
 
@@ -63,7 +63,7 @@ You can download my resume directly from the website or using this link:
 ## 📸 Screenshots
 
 <img src="./public/bg.jpg" width="300" />  
-<img src="./public/profile.jpg" width="300" />
+
 
 ---
 
